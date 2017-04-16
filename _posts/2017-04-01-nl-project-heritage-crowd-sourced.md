@@ -6,46 +6,49 @@ author: escada
 lang: nl
 ---
 
-# Heritage in Flanders and Crowd-Sourced Projects
-
-Vertaling komt eraan!
+# Erfgoed in Vlaanderen en crowdsourced projecten
 
 ## Introduction
 
+In dit artikel wil ik tonen hoe je informatie over onroerend erfgoed kan toevoegen aan crowdsourced projecten zoals [OpenStreetMap](http://www.openstreetmap.org) en enkele [Wikimedia](http://www.wikimedia.org)-projecten.
 
-In this article I want to show you how one can add information about immovable heritage to
-crowd sourced projects such as [OpenStreetMap](http://www.openstreetmap.org) and some of the projects of [Wikimedia](http://www.wikimedia.org).
+In België wordt de lijst van onroerend erfgoed beheerd door drie agentschappen, een voor Vlaanderen, een voor Brussel en een voor Wallonië. Voor Vlaanderen is er het [Agentschap Onroerend Erfgoed](https://www.onroerenderfgoed.be/). Zij maken een inventaris van de objecten en bepalen de bescherming ervan. Ze stellen ook sommige van [hun gegevens](https://www.onroerenderfgoed.be/nl/onderzoek/wetenschappelijke-inventarissen) beschikbaar als open data. Zo hebben ze in hun inventaris kerken, abdijen en kastelen, maar ook kleine boerderijhuizen en villa's, en ook kleine objecten zoals grenspalen en schandpalen. Af en toe vind je er ook belangrijke bomen op dorpspleinen in.
 
-In Belgium, the list of immovable heritage is controlled by three agencies, one for Flanders, one for Brussels and one for Wallonia. In Flanders, the agency is called [Agentschap Onroerend Erfgoed](https://www.onroerenderfgoed.be/). They make a catalogue of the items and decide on the protection. They also provide some of [their data](https://www.onroerenderfgoed.be/nl/onderzoek/wetenschappelijke-inventarissen) as open data.
-In their catalogue they have churches, abbeys, castles, but also small farmhouses and villas, furthermore it includes  small items such as boundary stones and pillories. Occasionally, the list contains important trees on town squares.
+![Schandpaal in Aartselaar](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-d6gBQB4/0/X3/Schandpaal%2C_Laar%2C_Aartselaar%20%282%29-X3.jpg)
 
-![Pillory in Aartselaar](https://photos.smugmug.com/OSM/Screenshots/HeritageCrowdSourced/i-d6gBQB4/0/X3/Schandpaal%2C_Laar%2C_Aartselaar%20%282%29-X3.jpg)
+*Schandpaal in Aartselaar*
 
-*Pillory in Aartselaar*
+Wat is een crowdsourced project? Dat is een project waarin iedereen data kan toevoegen, in tegenstelling tot projecten van bedrijven waar enkel werknemers dat kunnen. Als een bedrijf die data bezit, kan het de regels en prijs betalen om er toegang tot te krijgen. In veel crowdsourced projecten is het resultaat vrij te gebruiken en te raadplegen. Als je meer wil leren over crowdsourcing, kan je de [Engelstalige](https://en.wikipedia.org/wiki/Crowdsourcing) of [Nederlandstalige](https://nl.wikipedia.org/wiki/Crowdsourcing) Wikipedia-artikels erover lezen.
 
-What is a crowd-sourced project ? It is a project in which everybody can add data, unlike projects that are run by companies, where only employees can add data. When a company owns that data it can set the rules and price to get access to the data. In a crowd-sourced project, normally the resulting database is free to use and consult. If you want to find out more about crowdsourcing, read the [Wikipedia article](https://en.wikipedia.org/wiki/Crowdsourcing) on the topic.
+Dat verklaart ook waarom het interessant is al het onroerend erfgoed in een crowdsourced project te hebben: zo is men niet meer afhankelijk van een agentschap of de copyrightregels die ze verzinnen om te weten wanneer een constructie gebouwd is, of om een foto van een bepaalde watermolen in een publicatie te gebruiken, enzovoort …
 
-This also explains why it is interesting to have all the immovable heritage in crowd-sourced project: one no longer depends on an agency or copyright rules defined by that agency to know when a building was created, or use a picture of a watermill in a publication, etc.
-
-The scope of an agency such as Onroerend Erfgoed is also limited to a specific geographic region, the crowd-sourced projects presented below all have a world-wide scope.
-
-Let us now introduce some of the crowd-sourced projects
+Het bereik van het gebied van een agentschap zoals Onroerend Erfgoed is ook beperkt tot een specifiek geografisch gebied, terwijl de crowdsourced projecten hieronder allemaal globaal zijn.
 
 ### [OpenStreetMap](http://www.openstreetmap.org)
 
-This is a global database of geographical info. This database can be used to created maps. [Wikipedia definition of OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap). Note that in OpenStreetMap, we only map features that exist today. We do not map buildings that are completely demolished.
+Dit is een wereldwijde verzameling van geografische informatie (een geografische databank). Die verzameling kan onder andere gebruikt worden om kaarten te maken. Wikipedia heeft artikels over OpenStreetMap in het [Nederlands](https://nl.wikipedia.org/wiki/OpenStreetMap) en in het [Engels](https://en.wikipedia.org/wiki/OpenStreetMap). Merk op dat we in OpenStreetMap enkel dingen mappen die vandaag bestaan. Volledig afgebroken gebouwen niet, ruïnes van gebouwen wel.
 
 ### [Wikipedia](http://www.wikipedia.org)
 
-An online encyclopedia about human knowledge. Items are described in articles and illustrated with images, just as in printed encyclopedia. [Wikipedia definition of Wikipedia](https://en.wikipedia.org/wiki/Wikipedia)
+Een internet-encyclopedie van menselijke kennis. Objecten worden in artikels beschreven die verrijkt worden met afbeeldingen, net zoals in een encyclopedie op papier. Wikipedia heeft artikels over zichzelf in het [Nederlands](https://nl.wikipedia.org/wiki/Wikipedia) en in het [Engels](https://en.wikipedia.org/wiki/Wikipedia).
 
 ### [Wikimedia Commons](hhttps://commons.wikimedia.org)
 
-A database of media files such as photos, videos sound fragments and maps. [Wikipedia definition of Wikimedia Commons](https://en.wikipedia.org/wiki/Wikimedia_Commons)
+Een verzameling mediabestanden zoals foto's, video's, geluidsfragmenten en kaarten. Wikipedia heeft artikels over Wikimedia Commons in het [Nederlands](https://nl.wikipedia.org/wiki/Wikimedia_Commons) en in het [Engels](https://en.wikipedia.org/wiki/Wikimedia_Commons).
 
 ### [Wikidata](http://www.wikidata.org)
 
-A database about persons, facts, objects. [Wikipedia definition of Wikidata](https://en.wikipedia.org/wiki/Wikidata)
+Een databank over vanalles, zoals personen, feiten en objecten. Wikipedia heeft artikels over Wikidata in het [Nederlands](https://nl.wikipedia.org/wiki/Wikidata) en in het [Engels](https://en.wikipedia.org/wiki/Wikidata).
+
+
+<!--
+
+NOT YET TRANSLATED BELOW HERE
+
+-->
+
+De tekst hieronder moet nog vertaald worden.
+
 
 ## What can we contribute and where ?
 
