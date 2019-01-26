@@ -2,22 +2,23 @@
 layout: default
 ---
 
-<h2 class="h1">{{ page.title }}</h2>
+<h1>{{ page.title }}</h2>
+
 {% if page.project_lead %}
 <p class="text-info">
-	<strong>Project lead:</strong> {{ page.project_lead }}
+    <strong>Project lead:</strong> {{ page.project_lead }}
 </p>
 {% endif %}
 <hr>
 
 {% if page.featured %}
 <div class="text-center">
-	<img src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="{{ page.featured }}">
-	{% if page.featured_caption %}
-	<div>
-		<em>{{ page.featured_caption }}</em>
-	</div>
-	{% endif %}
+    <img src="{{ page.featured | prepend: '/assets/images/post/' | relative_url }}" alt="{{ page.featured }}">
+    {% if page.featured_caption %}
+    <div>
+        <em>{{ page.featured_caption }}</em>
+    </div>
+    {% endif %}
 </div>
 <hr>
 {% endif %}

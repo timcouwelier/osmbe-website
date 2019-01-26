@@ -5,6 +5,24 @@ img {
     max-width: 100%;
     height: auto;
 }
+img + em {
+    display: block;
+    color: #808080;
+    font-style: italic;
+    font-size: 0.75em;
+}
+
+figure {
+    display: table;
+    margin: auto;
+    margin-bottom: 1rem;
+    text-align: center;
+
+    figcaption {
+        caption-side: bottom;
+        display: table-caption;
+    }
+}
 
 #header {
     background-color: #222833;
@@ -20,7 +38,7 @@ img {
     }
 
     #nav {
-        font-size: 1.3em;
+        font-size: 1.8em;
 
         a:hover {
             color: #3ac984;
@@ -60,13 +78,6 @@ img {
         height: 150px;
         width: 150px;
     }
-}
-
-img + em {
-    display: block;
-    color: #808080;
-    font-style: italic;
-    font-size: 0.75em;
 }
 
 #map {
@@ -128,4 +139,8 @@ img + em {
     &:not(:disabled):hover {
         background-color: #6610f2;
     }
+}
+
+.list-inline-item:not(:last-child) {
+    margin-right: 1rem;
 }

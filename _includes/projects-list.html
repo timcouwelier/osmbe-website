@@ -1,0 +1,29 @@
+{% assign projects = site.posts | where: 'lang', page.lang | where: 'category', 'project' %}
+
+{% for project in projects %}
+<div class="media">
+    <div class="mr-3 media-featured" style="background-image: url({{ project.featured | prepend: 'assets/images/post/' | relative_url }});"></div>
+
+    <div class="media-body">
+        <h2>{{ project.title }}</h2>
+
+        <p>
+            {{ project.excerpt | strip_html | truncate: 500 }}
+        </p>
+
+        <p>
+            <a href="{{ project.url | relative_url }}">
+                {% case page.lang %}
+                {% when 'fr' %}
+                En savoir plus
+                {% when 'nl' %}
+                Read more
+                {% else %}
+                Read more
+                {% endcase %}
+            </a>
+        </p>
+    </div>
+</div>
+<hr>
+{% endfor %}
