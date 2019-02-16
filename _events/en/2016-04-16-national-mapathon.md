@@ -1,6 +1,7 @@
 ---
 layout: event
 category: event
+tags: [mapathon]
 lang: en
 title: National Missing Maps Mapathon 2016
 rsvp: https://www.eventbrite.com/e/national-missing-maps-mapathon-tickets-23149918028

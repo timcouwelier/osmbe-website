@@ -1,9 +1,10 @@
 ---
+layout: event
+category: event
+tags: [mapathon]
+lang: nl
 title: 'National Mapathon'
 featured: nationalmapathon.jpg
-layout: post
-author: Joost Schouppe
-lang: nl
 ---
 
 ## Help Artsen Zonder Grenzen en het Rode Kruis bij hun humanitaire werk.

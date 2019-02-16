@@ -1,6 +1,7 @@
 ---
 layout: event
 category: event
+tags: [mapathon]
 lang: en
 title: Missing Maps MAPATHON on Wednesday October 26, at the IPIS library! 
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/234618713/

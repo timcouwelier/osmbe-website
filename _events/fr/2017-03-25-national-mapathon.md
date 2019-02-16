@@ -1,9 +1,10 @@
 ---
+layout: event
+category: event
+tags: [mapathon]
+lang: fr
 title: 'National Mapathon'
 featured: nationalmapathon.jpg
-layout: post
-author: Joost Schouppe
-lang: fr
 ---
 
 ## Aidez-nous à améliorer l’aide humanitaire de Médecins Sans Frontières et de la Croix-Rouge

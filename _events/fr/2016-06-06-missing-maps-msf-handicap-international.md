@@ -1,9 +1,10 @@
 ---
+layout: event
+category: event
+tags: [mapathon]
+lang: fr
 title: 'Missing Maps Mapathon chez Médecins Sans Frontières / Handicap International Bruxelles'
 featured: missing-maps.png
-layout: post
-author: Jorieke
-lang: fr
 ---
 
 Médecins Sans Frontières (MSF) et Handicap International (HI) accueillent le prochain Missing Maps Mapathon.

@@ -1,6 +1,7 @@
 ---
 layout: event
 category: event
+tags: [mapathon]
 lang: en
 title: HOT-summit mapathon @ MSF
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/233082270/

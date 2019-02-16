@@ -1,6 +1,7 @@
 ---
 layout: event
 category: event
+tags: [mapathon]
 lang: en
 title: (M)Apps 4 Ghent
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/229463143/

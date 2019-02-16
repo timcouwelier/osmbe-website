@@ -1,9 +1,10 @@
 ---
+layout: event
+category: event
+tags: [mapathon]
+lang: nl
 title: 'Missing Maps Mapathon'
 featured: missing_maps_flyer.jpg
-layout: post
-author: Jorieke Vyncke
-lang: nl
 ---
 
 Het is zover! Op zaterdag 13 december houden we met OpenStreetMap België onze eerste mapathon. We nodigen iedereen uit om mee te werken aan het Missing Maps project en om zo al 'mappend' OpenStreetMap beter te leren kennen. De mapathon geeft je de gelegenheid om effectief een nuttige bijdrage te leveren aan het moeilijke veldwerk van Artsen Zonder Grenzen en om de nodige vaardigheden op te bouwen om dit in de toekomst te kunnen blijven doen. Eventueel zelfs vanuit je eigen luie zetel!

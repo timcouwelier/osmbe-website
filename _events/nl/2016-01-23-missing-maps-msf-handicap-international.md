@@ -1,9 +1,10 @@
 ---
+layout: event
+category: event
+tags: [mapathon]
+lang: nl
 title: 'Missing Maps Mapathon Gent'
 featured: missing-maps.png
-layout: post
-author: Joost Schouppe
-lang: nl
 ---
 
 

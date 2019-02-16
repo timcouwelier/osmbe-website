@@ -1,6 +1,7 @@
 ---
 layout: event
 category: event
+tags: [mapathon]
 lang: en
 title: Missing Maps Mapathon - VUB
 rsvp: https://www.meetup.com/OpenStreetMap-Belgium/events/229008959/

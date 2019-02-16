@@ -1,9 +1,10 @@
 ---
+layout: event
+category: event
+tags: [mapathon]
+lang: nl
 title: Missing Maps Mapathon at Doctors without Borders / Handicap International Brussel
 featured: missing-maps.png
-layout: post
-author: Jorieke Vyncke
-lang: nl
 ---
 
 Artsen Zonder Grenzen (AZG) en Handicap International (HI) verwelkomen ons voor de volgendeMissing Maps Mapathon.
